@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lin-alg&show_icons=true&theme=radical)
+[![lin-alg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lin-alg)](https://github.com/anuraghazra/github-readme-stats)
